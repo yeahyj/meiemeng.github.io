@@ -50,7 +50,7 @@
         "customJointTextureLayouts": []
     },
     "assets": {
-        "server": "http://192.168.2.4:7456/build/web-mobile/",
+        "server": "",
         "remoteBundles": [
             "page-battle-res",
             "page-home-res",
