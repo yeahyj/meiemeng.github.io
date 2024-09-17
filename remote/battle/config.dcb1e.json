@@ -167,6 +167,26 @@
             "cc.Prefab",
             1
         ],
+        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c": [
+            "item/box",
+            "cc.ImageAsset",
+            1
+        ],
+        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@6c48a": [
+            "item/box/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@f9941": [
+            "item/box/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "b06d0d95-3cf7-4765-aead-c2fd261a3ec7": [
+            "item/ItemPrefab",
+            "cc.Prefab",
+            1
+        ],
         "e16e9ddf-d442-42cb-b06d-bdd078ae6cba": [
             "common/prefab/DamageFlyText",
             "cc.Prefab",
@@ -869,26 +889,6 @@
         ],
         "18ca8df0-c6a5-4829-8335-433952b2c0bb": [
             "skill/fireball/Fireball",
-            "cc.Prefab",
-            1
-        ],
-        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c": [
-            "item/box",
-            "cc.ImageAsset",
-            1
-        ],
-        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@6c48a": [
-            "item/box/texture",
-            "cc.Texture2D",
-            1
-        ],
-        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@f9941": [
-            "item/box/spriteFrame",
-            "cc.SpriteFrame",
-            1
-        ],
-        "b06d0d95-3cf7-4765-aead-c2fd261a3ec7": [
-            "item/ItemPrefab",
             "cc.Prefab",
             1
         ]

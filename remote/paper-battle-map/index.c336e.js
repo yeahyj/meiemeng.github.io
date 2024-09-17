@@ -6,16 +6,13 @@ System.register("chunks:///_virtual/paper-battle-map", ['./PaperBattleMap.ts'], 
 });
 
 System.register("chunks:///_virtual/PaperBattleMap.ts", ['./rollupPluginModLoBabelHelpers.js', 'cc', './BaseView.ts', './app.ts'], function (exports) {
-  var _applyDecoratedDescriptor, _inherits, _createSuper, _classCallCheck, _initializerDefineProperty, _assertThisInitialized, _createClass, cclegacy, _decorator, Node, Camera, BaseView, app;
+  var _applyDecoratedDescriptor, _inheritsLoose, _initializerDefineProperty, _assertThisInitialized, cclegacy, _decorator, Node, Camera, BaseView, app;
   return {
     setters: [function (module) {
       _applyDecoratedDescriptor = module.applyDecoratedDescriptor;
-      _inherits = module.inherits;
-      _createSuper = module.createSuper;
-      _classCallCheck = module.classCallCheck;
+      _inheritsLoose = module.inheritsLoose;
       _initializerDefineProperty = module.initializerDefineProperty;
       _assertThisInitialized = module.assertThisInitialized;
-      _createClass = module.createClass;
     }, function (module) {
       cclegacy = module.cclegacy;
       _decorator = module._decorator;
@@ -32,46 +29,41 @@ System.register("chunks:///_virtual/PaperBattleMap.ts", ['./rollupPluginModLoBab
       var ccclass = _decorator.ccclass,
         property = _decorator.property;
       var PaperBattleMap = exports('PaperBattleMap', (_dec = ccclass('PaperBattleMap'), _dec2 = property(Node), _dec3 = property(Node), _dec4 = property(Camera), _dec(_class = (_class2 = /*#__PURE__*/function (_BaseView) {
-        _inherits(PaperBattleMap, _BaseView);
-        var _super = _createSuper(PaperBattleMap);
+        _inheritsLoose(PaperBattleMap, _BaseView);
         function PaperBattleMap() {
           var _this;
-          _classCallCheck(this, PaperBattleMap);
           for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
             args[_key] = arguments[_key];
           }
-          _this = _super.call.apply(_super, [this].concat(args));
-          _initializerDefineProperty(_assertThisInitialized(_this), "gameMap", _descriptor, _assertThisInitialized(_this));
-          _initializerDefineProperty(_assertThisInitialized(_this), "layerNode", _descriptor2, _assertThisInitialized(_this));
-          _initializerDefineProperty(_assertThisInitialized(_this), "mapCamera", _descriptor3, _assertThisInitialized(_this));
+          _this = _BaseView.call.apply(_BaseView, [this].concat(args)) || this;
+          _initializerDefineProperty(_this, "gameMap", _descriptor, _assertThisInitialized(_this));
+          _initializerDefineProperty(_this, "layerNode", _descriptor2, _assertThisInitialized(_this));
+          _initializerDefineProperty(_this, "mapCamera", _descriptor3, _assertThisInitialized(_this));
           return _this;
         }
-        _createClass(PaperBattleMap, [{
-          key: "onLoad",
-          value:
-          // 初始化的相关逻辑写在这
-          function onLoad() {
-            // app.manager.battle.initECS();
-            app.manager.battle.startGame({
-              layerNode: this.layerNode,
-              gameMap: this.gameMap,
-              mapCamera: this.mapCamera
-            });
-          }
+        var _proto = PaperBattleMap.prototype;
+        // 初始化的相关逻辑写在这
+        _proto.onLoad = function onLoad() {
+          // app.manager.battle.initECS();
+          app.manager.battle.startGame({
+            layerNode: this.layerNode,
+            gameMap: this.gameMap,
+            mapCamera: this.mapCamera
+          });
+        }
 
-          // 界面打开时的相关逻辑写在这(onShow可被多次调用-它与onHide不成对)
-        }, {
-          key: "onShow",
-          value: function onShow(params) {}
+        // 界面打开时的相关逻辑写在这(onShow可被多次调用-它与onHide不成对)
+        ;
 
-          // 界面关闭时的相关逻辑写在这(已经关闭的界面不会触发onHide)
-        }, {
-          key: "onHide",
-          value: function onHide(result) {
-            // app.manager.ui.show<PaperBattleMap>({name: 'PaperBattleMap', onHide:(result) => { 接收到return的数据，并且有类型提示 }})
-            return result;
-          }
-        }]);
+        _proto.onShow = function onShow(params) {}
+
+        // 界面关闭时的相关逻辑写在这(已经关闭的界面不会触发onHide)
+        ;
+
+        _proto.onHide = function onHide(result) {
+          // app.manager.ui.show<PaperBattleMap>({name: 'PaperBattleMap', onHide:(result) => { 接收到return的数据，并且有类型提示 }})
+          return result;
+        };
         return PaperBattleMap;
       }(BaseView), (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "gameMap", [_dec2], {
         configurable: true,

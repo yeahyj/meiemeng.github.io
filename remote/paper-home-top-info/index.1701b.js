@@ -6,13 +6,10 @@ System.register("chunks:///_virtual/paper-home-top-info", ['./PaperHomeTopInfo.t
 });
 
 System.register("chunks:///_virtual/PaperHomeTopInfo.ts", ['./rollupPluginModLoBabelHelpers.js', 'cc', './BaseView.ts'], function (exports) {
-  var _inherits, _createSuper, _classCallCheck, _createClass, cclegacy, _decorator, BaseView;
+  var _inheritsLoose, cclegacy, _decorator, BaseView;
   return {
     setters: [function (module) {
-      _inherits = module.inherits;
-      _createSuper = module.createSuper;
-      _classCallCheck = module.classCallCheck;
-      _createClass = module.createClass;
+      _inheritsLoose = module.inheritsLoose;
     }, function (module) {
       cclegacy = module.cclegacy;
       _decorator = module._decorator;
@@ -25,31 +22,26 @@ System.register("chunks:///_virtual/PaperHomeTopInfo.ts", ['./rollupPluginModLoB
       var ccclass = _decorator.ccclass,
         property = _decorator.property;
       var PaperHomeTopInfo = exports('PaperHomeTopInfo', (_dec = ccclass('PaperHomeTopInfo'), _dec(_class = /*#__PURE__*/function (_BaseView) {
-        _inherits(PaperHomeTopInfo, _BaseView);
-        var _super = _createSuper(PaperHomeTopInfo);
+        _inheritsLoose(PaperHomeTopInfo, _BaseView);
         function PaperHomeTopInfo() {
-          _classCallCheck(this, PaperHomeTopInfo);
-          return _super.apply(this, arguments);
+          return _BaseView.apply(this, arguments) || this;
         }
-        _createClass(PaperHomeTopInfo, [{
-          key: "onLoad",
-          value:
-          // 初始化的相关逻辑写在这
-          function onLoad() {}
+        var _proto = PaperHomeTopInfo.prototype;
+        // 初始化的相关逻辑写在这
+        _proto.onLoad = function onLoad() {}
 
-          // 界面打开时的相关逻辑写在这(onShow可被多次调用-它与onHide不成对)
-        }, {
-          key: "onShow",
-          value: function onShow(params) {}
+        // 界面打开时的相关逻辑写在这(onShow可被多次调用-它与onHide不成对)
+        ;
 
-          // 界面关闭时的相关逻辑写在这(已经关闭的界面不会触发onHide)
-        }, {
-          key: "onHide",
-          value: function onHide(result) {
-            // app.manager.ui.show<PaperHomeTopInfo>({name: 'PaperHomeTopInfo', onHide:(result) => { 接收到return的数据，并且有类型提示 }})
-            return result;
-          }
-        }]);
+        _proto.onShow = function onShow(params) {}
+
+        // 界面关闭时的相关逻辑写在这(已经关闭的界面不会触发onHide)
+        ;
+
+        _proto.onHide = function onHide(result) {
+          // app.manager.ui.show<PaperHomeTopInfo>({name: 'PaperHomeTopInfo', onHide:(result) => { 接收到return的数据，并且有类型提示 }})
+          return result;
+        };
         return PaperHomeTopInfo;
       }(BaseView)) || _class));
       cclegacy._RF.pop();
