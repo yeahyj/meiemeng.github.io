@@ -1,0 +1,79 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "top-loading-res",
+    "deps": [],
+    "uuids": [
+        "08dd2bd50",
+        "52391434-458a-4fcc-8ed8-68730d6ade0d",
+        "52391434-458a-4fcc-8ed8-68730d6ade0d@6c48a",
+        "52391434-458a-4fcc-8ed8-68730d6ade0d@f9941",
+        "b09ab942-b841-4d51-931c-d510d41a7927",
+        "b09ab942-b841-4d51-931c-d510d41a7927@6c48a",
+        "b09ab942-b841-4d51-931c-d510d41a7927@f9941"
+    ],
+    "paths": {
+        "b09ab942-b841-4d51-931c-d510d41a7927": [
+            "bg",
+            "cc.ImageAsset",
+            1
+        ],
+        "b09ab942-b841-4d51-931c-d510d41a7927@6c48a": [
+            "bg/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b09ab942-b841-4d51-931c-d510d41a7927@f9941": [
+            "bg/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "52391434-458a-4fcc-8ed8-68730d6ade0d": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "52391434-458a-4fcc-8ed8-68730d6ade0d@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "52391434-458a-4fcc-8ed8-68730d6ade0d@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "08dd2bd50": [
+            "52391434-458a-4fcc-8ed8-68730d6ade0d@6c48a",
+            "b09ab942-b841-4d51-931c-d510d41a7927@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [
+            "08dd2bd50",
+            "9e496",
+            "52391434-458a-4fcc-8ed8-68730d6ade0d",
+            "a2533",
+            "52391434-458a-4fcc-8ed8-68730d6ade0d@f9941",
+            "c254d",
+            "b09ab942-b841-4d51-931c-d510d41a7927",
+            "c16a8",
+            "b09ab942-b841-4d51-931c-d510d41a7927@f9941",
+            "a0409"
+        ],
+        "native": [
+            "52391434-458a-4fcc-8ed8-68730d6ade0d",
+            "cea68",
+            "b09ab942-b841-4d51-931c-d510d41a7927",
+            "cc6de"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

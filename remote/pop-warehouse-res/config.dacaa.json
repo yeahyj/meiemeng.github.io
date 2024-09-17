@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-warehouse-res",
+    "deps": [],
+    "uuids": [
+        "b9df1282-4c73-44a4-8d79-cd9360ef6372",
+        "b9df1282-4c73-44a4-8d79-cd9360ef6372@6c48a",
+        "b9df1282-4c73-44a4-8d79-cd9360ef6372@f9941"
+    ],
+    "paths": {
+        "b9df1282-4c73-44a4-8d79-cd9360ef6372": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "b9df1282-4c73-44a4-8d79-cd9360ef6372@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b9df1282-4c73-44a4-8d79-cd9360ef6372@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "b9df1282-4c73-44a4-8d79-cd9360ef6372",
+            "a2533",
+            "b9df1282-4c73-44a4-8d79-cd9360ef6372@6c48a",
+            "fe070",
+            "b9df1282-4c73-44a4-8d79-cd9360ef6372@f9941",
+            "ba049"
+        ],
+        "native": [
+            "b9df1282-4c73-44a4-8d79-cd9360ef6372",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-assemble-weapon-res",
+    "deps": [],
+    "uuids": [
+        "b13384f6-225a-4fbc-9fee-6d8eb98901f4",
+        "b13384f6-225a-4fbc-9fee-6d8eb98901f4@6c48a",
+        "b13384f6-225a-4fbc-9fee-6d8eb98901f4@f9941"
+    ],
+    "paths": {
+        "b13384f6-225a-4fbc-9fee-6d8eb98901f4": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "b13384f6-225a-4fbc-9fee-6d8eb98901f4@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b13384f6-225a-4fbc-9fee-6d8eb98901f4@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "b13384f6-225a-4fbc-9fee-6d8eb98901f4",
+            "a2533",
+            "b13384f6-225a-4fbc-9fee-6d8eb98901f4@6c48a",
+            "19b51",
+            "b13384f6-225a-4fbc-9fee-6d8eb98901f4@f9941",
+            "bd55f"
+        ],
+        "native": [
+            "b13384f6-225a-4fbc-9fee-6d8eb98901f4",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

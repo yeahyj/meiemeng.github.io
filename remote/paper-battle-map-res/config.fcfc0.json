@@ -1,0 +1,79 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "paper-battle-map-res",
+    "deps": [],
+    "uuids": [
+        "04f98bbc4",
+        "483f9fbc-bb60-447b-a783-46b7abeba876",
+        "483f9fbc-bb60-447b-a783-46b7abeba876@6c48a",
+        "483f9fbc-bb60-447b-a783-46b7abeba876@f9941",
+        "d843ecc9-859f-429b-abaf-3b144378e589",
+        "d843ecc9-859f-429b-abaf-3b144378e589@6c48a",
+        "d843ecc9-859f-429b-abaf-3b144378e589@f9941"
+    ],
+    "paths": {
+        "d843ecc9-859f-429b-abaf-3b144378e589": [
+            "bb1",
+            "cc.ImageAsset",
+            1
+        ],
+        "d843ecc9-859f-429b-abaf-3b144378e589@6c48a": [
+            "bb1/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d843ecc9-859f-429b-abaf-3b144378e589@f9941": [
+            "bb1/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "483f9fbc-bb60-447b-a783-46b7abeba876": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "483f9fbc-bb60-447b-a783-46b7abeba876@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "483f9fbc-bb60-447b-a783-46b7abeba876@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "04f98bbc4": [
+            "483f9fbc-bb60-447b-a783-46b7abeba876@6c48a",
+            "d843ecc9-859f-429b-abaf-3b144378e589@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [
+            "04f98bbc4",
+            "bee87",
+            "483f9fbc-bb60-447b-a783-46b7abeba876",
+            "a2533",
+            "483f9fbc-bb60-447b-a783-46b7abeba876@f9941",
+            "cf034",
+            "d843ecc9-859f-429b-abaf-3b144378e589",
+            "a2533",
+            "d843ecc9-859f-429b-abaf-3b144378e589@f9941",
+            "8fc6a"
+        ],
+        "native": [
+            "483f9fbc-bb60-447b-a783-46b7abeba876",
+            "cea68",
+            "d843ecc9-859f-429b-abaf-3b144378e589",
+            "89e4f"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

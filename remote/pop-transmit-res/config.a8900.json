@@ -1,0 +1,79 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-transmit-res",
+    "deps": [],
+    "uuids": [
+        "0b1dcce22",
+        "2bf04f6a-affc-4fb4-8b13-1543d9f343bc",
+        "2bf04f6a-affc-4fb4-8b13-1543d9f343bc@6c48a",
+        "2bf04f6a-affc-4fb4-8b13-1543d9f343bc@f9941",
+        "3ab177bf-331c-44d3-918a-af3411bf9cb5",
+        "3ab177bf-331c-44d3-918a-af3411bf9cb5@6c48a",
+        "3ab177bf-331c-44d3-918a-af3411bf9cb5@f9941"
+    ],
+    "paths": {
+        "3ab177bf-331c-44d3-918a-af3411bf9cb5": [
+            "bg",
+            "cc.ImageAsset",
+            1
+        ],
+        "3ab177bf-331c-44d3-918a-af3411bf9cb5@6c48a": [
+            "bg/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "3ab177bf-331c-44d3-918a-af3411bf9cb5@f9941": [
+            "bg/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "2bf04f6a-affc-4fb4-8b13-1543d9f343bc": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "2bf04f6a-affc-4fb4-8b13-1543d9f343bc@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "2bf04f6a-affc-4fb4-8b13-1543d9f343bc@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0b1dcce22": [
+            "2bf04f6a-affc-4fb4-8b13-1543d9f343bc@6c48a",
+            "3ab177bf-331c-44d3-918a-af3411bf9cb5@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [
+            "0b1dcce22",
+            "1d43e",
+            "2bf04f6a-affc-4fb4-8b13-1543d9f343bc",
+            "a2533",
+            "2bf04f6a-affc-4fb4-8b13-1543d9f343bc@f9941",
+            "11923",
+            "3ab177bf-331c-44d3-918a-af3411bf9cb5",
+            "c16a8",
+            "3ab177bf-331c-44d3-918a-af3411bf9cb5@f9941",
+            "730e5"
+        ],
+        "native": [
+            "2bf04f6a-affc-4fb4-8b13-1543d9f343bc",
+            "cea68",
+            "3ab177bf-331c-44d3-918a-af3411bf9cb5",
+            "18fb5"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

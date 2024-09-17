@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "paper-home-top-info-res",
+    "deps": [],
+    "uuids": [
+        "a81cbd14-4d14-40da-9c5b-b75ad5d3bb73",
+        "a81cbd14-4d14-40da-9c5b-b75ad5d3bb73@6c48a",
+        "a81cbd14-4d14-40da-9c5b-b75ad5d3bb73@f9941"
+    ],
+    "paths": {
+        "a81cbd14-4d14-40da-9c5b-b75ad5d3bb73": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "a81cbd14-4d14-40da-9c5b-b75ad5d3bb73@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a81cbd14-4d14-40da-9c5b-b75ad5d3bb73@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "a81cbd14-4d14-40da-9c5b-b75ad5d3bb73",
+            "a2533",
+            "a81cbd14-4d14-40da-9c5b-b75ad5d3bb73@6c48a",
+            "d692a",
+            "a81cbd14-4d14-40da-9c5b-b75ad5d3bb73@f9941",
+            "3793e"
+        ],
+        "native": [
+            "a81cbd14-4d14-40da-9c5b-b75ad5d3bb73",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

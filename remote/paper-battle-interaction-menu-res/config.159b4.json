@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "paper-battle-interaction-menu-res",
+    "deps": [],
+    "uuids": [
+        "578078f1-08f9-4b8a-bbc5-ca8e46e31d11",
+        "578078f1-08f9-4b8a-bbc5-ca8e46e31d11@6c48a",
+        "578078f1-08f9-4b8a-bbc5-ca8e46e31d11@f9941"
+    ],
+    "paths": {
+        "578078f1-08f9-4b8a-bbc5-ca8e46e31d11": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "578078f1-08f9-4b8a-bbc5-ca8e46e31d11@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "578078f1-08f9-4b8a-bbc5-ca8e46e31d11@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "578078f1-08f9-4b8a-bbc5-ca8e46e31d11",
+            "a2533",
+            "578078f1-08f9-4b8a-bbc5-ca8e46e31d11@6c48a",
+            "9dcae",
+            "578078f1-08f9-4b8a-bbc5-ca8e46e31d11@f9941",
+            "a0e94"
+        ],
+        "native": [
+            "578078f1-08f9-4b8a-bbc5-ca8e46e31d11",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

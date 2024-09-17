@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "page-battle-res",
+    "deps": [],
+    "uuids": [
+        "a55fc2d8-3dcf-4270-a94d-75032549a9e0",
+        "a55fc2d8-3dcf-4270-a94d-75032549a9e0@6c48a",
+        "a55fc2d8-3dcf-4270-a94d-75032549a9e0@f9941"
+    ],
+    "paths": {
+        "a55fc2d8-3dcf-4270-a94d-75032549a9e0": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "a55fc2d8-3dcf-4270-a94d-75032549a9e0@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "a55fc2d8-3dcf-4270-a94d-75032549a9e0@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "a55fc2d8-3dcf-4270-a94d-75032549a9e0",
+            "a2533",
+            "a55fc2d8-3dcf-4270-a94d-75032549a9e0@6c48a",
+            "adf59",
+            "a55fc2d8-3dcf-4270-a94d-75032549a9e0@f9941",
+            "8b86e"
+        ],
+        "native": [
+            "a55fc2d8-3dcf-4270-a94d-75032549a9e0",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

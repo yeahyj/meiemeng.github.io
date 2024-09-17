@@ -1,0 +1,44 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "paper-battle-rocker",
+    "deps": [],
+    "uuids": [
+        "074a79a68",
+        "096cdc6a-04be-4c91-92ab-567c6512835f",
+        "3f5f77cd-b816-4dd2-b505-044d2536d9fb",
+        "3f5f77cd-b816-4dd2-b505-044d2536d9fb@6c48a",
+        "3f5f77cd-b816-4dd2-b505-044d2536d9fb@f9941"
+    ],
+    "paths": {
+        "096cdc6a-04be-4c91-92ab-567c6512835f": [
+            "PaperBattleRocker",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "074a79a68": [
+            "096cdc6a-04be-4c91-92ab-567c6512835f",
+            "3f5f77cd-b816-4dd2-b505-044d2536d9fb",
+            "3f5f77cd-b816-4dd2-b505-044d2536d9fb@6c48a",
+            "3f5f77cd-b816-4dd2-b505-044d2536d9fb@f9941"
+        ]
+    },
+    "versions": {
+        "import": [
+            "074a79a68",
+            "fe2eb"
+        ],
+        "native": [
+            "3f5f77cd-b816-4dd2-b505-044d2536d9fb",
+            "8a5e0"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

@@ -1,0 +1,30 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "page-battle",
+    "deps": [],
+    "uuids": [
+        "4e3f9f1c-b007-44db-98f4-11b185b08dba"
+    ],
+    "paths": {
+        "4e3f9f1c-b007-44db-98f4-11b185b08dba": [
+            "PageBattle",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "4e3f9f1c-b007-44db-98f4-11b185b08dba",
+            "44968"
+        ],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

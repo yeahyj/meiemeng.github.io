@@ -1,0 +1,36 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "paper-battle-map",
+    "deps": [
+        "paper-battle-map-res"
+    ],
+    "uuids": [
+        "9bb75f06-9c6f-47a8-8dd8-3eb46ee439f4",
+        "d843ecc9-859f-429b-abaf-3b144378e589@f9941"
+    ],
+    "paths": {
+        "9bb75f06-9c6f-47a8-8dd8-3eb46ee439f4": [
+            "PaperBattleMap",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "9bb75f06-9c6f-47a8-8dd8-3eb46ee439f4",
+            "c7aaf"
+        ],
+        "native": []
+    },
+    "redirect": [
+        "d843ecc9-859f-429b-abaf-3b144378e589@f9941",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

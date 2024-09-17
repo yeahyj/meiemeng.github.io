@@ -1,0 +1,50 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "top-loading",
+    "deps": [
+        "top-loading-res"
+    ],
+    "uuids": [
+        "0e39f43b9",
+        "8ea47648-92d4-4d58-a5c3-d751344fdc3f",
+        "b09ab942-b841-4d51-931c-d510d41a7927@f9941",
+        "fb95b4e4-13ed-4feb-9dc1-8493f82a2c40",
+        "fb95b4e4-13ed-4feb-9dc1-8493f82a2c40@6c48a",
+        "fd8863d8-9de9-4d66-ac20-b7129469a9f9"
+    ],
+    "paths": {
+        "8ea47648-92d4-4d58-a5c3-d751344fdc3f": [
+            "TopLoading",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0e39f43b9": [
+            "8ea47648-92d4-4d58-a5c3-d751344fdc3f",
+            "fb95b4e4-13ed-4feb-9dc1-8493f82a2c40",
+            "fb95b4e4-13ed-4feb-9dc1-8493f82a2c40@6c48a",
+            "fd8863d8-9de9-4d66-ac20-b7129469a9f9"
+        ]
+    },
+    "versions": {
+        "import": [
+            "0e39f43b9",
+            "4028e"
+        ],
+        "native": [
+            "fb95b4e4-13ed-4feb-9dc1-8493f82a2c40",
+            "83f31"
+        ]
+    },
+    "redirect": [
+        "b09ab942-b841-4d51-931c-d510d41a7927@f9941",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

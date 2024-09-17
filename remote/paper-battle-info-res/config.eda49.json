@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "paper-battle-info-res",
+    "deps": [],
+    "uuids": [
+        "e44c243e-c76d-4708-818c-83be29fcf500",
+        "e44c243e-c76d-4708-818c-83be29fcf500@6c48a",
+        "e44c243e-c76d-4708-818c-83be29fcf500@f9941"
+    ],
+    "paths": {
+        "e44c243e-c76d-4708-818c-83be29fcf500": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "e44c243e-c76d-4708-818c-83be29fcf500@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "e44c243e-c76d-4708-818c-83be29fcf500@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "e44c243e-c76d-4708-818c-83be29fcf500",
+            "a2533",
+            "e44c243e-c76d-4708-818c-83be29fcf500@6c48a",
+            "05c7f",
+            "e44c243e-c76d-4708-818c-83be29fcf500@f9941",
+            "71ae7"
+        ],
+        "native": [
+            "e44c243e-c76d-4708-818c-83be29fcf500",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

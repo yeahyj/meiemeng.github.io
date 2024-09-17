@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "paper-battle-rocker-res",
+    "deps": [],
+    "uuids": [
+        "096f5dae-eebe-4b6f-a052-168745dced57",
+        "096f5dae-eebe-4b6f-a052-168745dced57@6c48a",
+        "096f5dae-eebe-4b6f-a052-168745dced57@f9941"
+    ],
+    "paths": {
+        "096f5dae-eebe-4b6f-a052-168745dced57": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "096f5dae-eebe-4b6f-a052-168745dced57@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "096f5dae-eebe-4b6f-a052-168745dced57@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "096f5dae-eebe-4b6f-a052-168745dced57",
+            "a2533",
+            "096f5dae-eebe-4b6f-a052-168745dced57@6c48a",
+            "61806",
+            "096f5dae-eebe-4b6f-a052-168745dced57@f9941",
+            "2a7c7"
+        ],
+        "native": [
+            "096f5dae-eebe-4b6f-a052-168745dced57",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
