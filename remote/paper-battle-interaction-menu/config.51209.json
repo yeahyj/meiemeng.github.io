@@ -1,0 +1,67 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "paper-battle-interaction-menu",
+    "deps": [],
+    "uuids": [
+        "065c5a1b4",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "a7d7dbbf-de53-4613-b6db-afdf7384fc00",
+        "cfa7c6a2-8982-4960-aa79-7eec4fe70213"
+    ],
+    "paths": {
+        "cfa7c6a2-8982-4960-aa79-7eec4fe70213": [
+            "PaperBattleInteractionMenu",
+            "cc.Prefab",
+            1
+        ],
+        "a7d7dbbf-de53-4613-b6db-afdf7384fc00": [
+            "expansion/MenuItemPrefab",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "065c5a1b4": [
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+            "951249e0-9f16-456d-8b85-a6ca954da16b",
+            "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a",
+            "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+            "a7d7dbbf-de53-4613-b6db-afdf7384fc00",
+            "cfa7c6a2-8982-4960-aa79-7eec4fe70213"
+        ]
+    },
+    "versions": {
+        "import": [
+            "065c5a1b4",
+            "60ac4"
+        ],
+        "native": [
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+            "90cf4",
+            "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+            "83fcc",
+            "951249e0-9f16-456d-8b85-a6ca954da16b",
+            "c06a9"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

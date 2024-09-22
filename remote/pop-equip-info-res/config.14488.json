@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-equip-info-res",
+    "deps": [],
+    "uuids": [
+        "bd76a078-d27a-45a6-aa99-235f3a7c65f6",
+        "bd76a078-d27a-45a6-aa99-235f3a7c65f6@6c48a",
+        "bd76a078-d27a-45a6-aa99-235f3a7c65f6@f9941"
+    ],
+    "paths": {
+        "bd76a078-d27a-45a6-aa99-235f3a7c65f6": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "bd76a078-d27a-45a6-aa99-235f3a7c65f6@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "bd76a078-d27a-45a6-aa99-235f3a7c65f6@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "bd76a078-d27a-45a6-aa99-235f3a7c65f6",
+            "a2533",
+            "bd76a078-d27a-45a6-aa99-235f3a7c65f6@6c48a",
+            "d6fd5",
+            "bd76a078-d27a-45a6-aa99-235f3a7c65f6@f9941",
+            "5b7af"
+        ],
+        "native": [
+            "bd76a078-d27a-45a6-aa99-235f3a7c65f6",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
