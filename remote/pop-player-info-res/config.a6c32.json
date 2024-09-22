@@ -1,0 +1,129 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-player-info-res",
+    "deps": [],
+    "uuids": [
+        "03ff0c42-9398-4853-bdb0-f526cd92620f",
+        "03ff0c42-9398-4853-bdb0-f526cd92620f@6c48a",
+        "03ff0c42-9398-4853-bdb0-f526cd92620f@f9941",
+        "0589464da",
+        "6c78faab-0a84-4c04-91f5-8fd8010885e2",
+        "6c78faab-0a84-4c04-91f5-8fd8010885e2@6c48a",
+        "6c78faab-0a84-4c04-91f5-8fd8010885e2@f9941",
+        "b42d47aa-2fab-45ce-b883-51c78f6181f0",
+        "b42d47aa-2fab-45ce-b883-51c78f6181f0@6c48a",
+        "b42d47aa-2fab-45ce-b883-51c78f6181f0@f9941",
+        "e70405a5-1b51-4ea5-9c88-a561fb47de62",
+        "e70405a5-1b51-4ea5-9c88-a561fb47de62@6c48a",
+        "e70405a5-1b51-4ea5-9c88-a561fb47de62@f9941"
+    ],
+    "paths": {
+        "b42d47aa-2fab-45ce-b883-51c78f6181f0": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "b42d47aa-2fab-45ce-b883-51c78f6181f0@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "b42d47aa-2fab-45ce-b883-51c78f6181f0@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "e70405a5-1b51-4ea5-9c88-a561fb47de62": [
+            "bagBox",
+            "cc.ImageAsset",
+            1
+        ],
+        "e70405a5-1b51-4ea5-9c88-a561fb47de62@6c48a": [
+            "bagBox/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "e70405a5-1b51-4ea5-9c88-a561fb47de62@f9941": [
+            "bagBox/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "03ff0c42-9398-4853-bdb0-f526cd92620f": [
+            "bagIcon",
+            "cc.ImageAsset",
+            1
+        ],
+        "03ff0c42-9398-4853-bdb0-f526cd92620f@6c48a": [
+            "bagIcon/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "03ff0c42-9398-4853-bdb0-f526cd92620f@f9941": [
+            "bagIcon/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "6c78faab-0a84-4c04-91f5-8fd8010885e2": [
+            "infoIcon",
+            "cc.ImageAsset",
+            1
+        ],
+        "6c78faab-0a84-4c04-91f5-8fd8010885e2@6c48a": [
+            "infoIcon/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "6c78faab-0a84-4c04-91f5-8fd8010885e2@f9941": [
+            "infoIcon/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0589464da": [
+            "03ff0c42-9398-4853-bdb0-f526cd92620f@6c48a",
+            "6c78faab-0a84-4c04-91f5-8fd8010885e2@6c48a",
+            "b42d47aa-2fab-45ce-b883-51c78f6181f0@6c48a",
+            "e70405a5-1b51-4ea5-9c88-a561fb47de62@6c48a"
+        ]
+    },
+    "versions": {
+        "import": [
+            "03ff0c42-9398-4853-bdb0-f526cd92620f",
+            "a2533",
+            "03ff0c42-9398-4853-bdb0-f526cd92620f@f9941",
+            "5902b",
+            "0589464da",
+            "14459",
+            "6c78faab-0a84-4c04-91f5-8fd8010885e2",
+            "a2533",
+            "6c78faab-0a84-4c04-91f5-8fd8010885e2@f9941",
+            "4e62f",
+            "b42d47aa-2fab-45ce-b883-51c78f6181f0",
+            "a2533",
+            "b42d47aa-2fab-45ce-b883-51c78f6181f0@f9941",
+            "89efe",
+            "e70405a5-1b51-4ea5-9c88-a561fb47de62",
+            "a2533",
+            "e70405a5-1b51-4ea5-9c88-a561fb47de62@f9941",
+            "54ddc"
+        ],
+        "native": [
+            "03ff0c42-9398-4853-bdb0-f526cd92620f",
+            "e32a3",
+            "6c78faab-0a84-4c04-91f5-8fd8010885e2",
+            "d54ca",
+            "b42d47aa-2fab-45ce-b883-51c78f6181f0",
+            "cea68",
+            "e70405a5-1b51-4ea5-9c88-a561fb47de62",
+            "b9d75"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

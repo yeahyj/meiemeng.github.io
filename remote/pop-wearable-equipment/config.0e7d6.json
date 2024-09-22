@@ -1,0 +1,52 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-wearable-equipment",
+    "deps": [],
+    "uuids": [
+        "02c5d053f",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "a49b94e8-d507-481b-8902-df8d69a178d0",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@6c48a",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+    ],
+    "paths": {
+        "a49b94e8-d507-481b-8902-df8d69a178d0": [
+            "PopWearableEquipment",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "02c5d053f": [
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+            "a49b94e8-d507-481b-8902-df8d69a178d0",
+            "b730527c-3233-41c2-aaf7-7cdab58f9749",
+            "b730527c-3233-41c2-aaf7-7cdab58f9749@6c48a",
+            "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+        ]
+    },
+    "versions": {
+        "import": [
+            "02c5d053f",
+            "77a2d"
+        ],
+        "native": [
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+            "cea68",
+            "b730527c-3233-41c2-aaf7-7cdab58f9749",
+            "cdbc9"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

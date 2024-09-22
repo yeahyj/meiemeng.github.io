@@ -1,0 +1,78 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "paper-battle-info",
+    "deps": [],
+    "uuids": [
+        "06f29d5db",
+        "24a704da-2867-446d-8d1a-5e920c75e09d",
+        "24a704da-2867-446d-8d1a-5e920c75e09d@6c48a",
+        "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
+        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c",
+        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@6c48a",
+        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "8e29d897-cb92-4c9a-bcac-8d3fab459946",
+        "8e29d897-cb92-4c9a-bcac-8d3fab459946@6c48a",
+        "8e29d897-cb92-4c9a-bcac-8d3fab459946@f9941",
+        "9fd900dd-221b-4f89-8f2c-fba34243c835",
+        "9fd900dd-221b-4f89-8f2c-fba34243c835@6c48a",
+        "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941",
+        "b06d0d95-3cf7-4765-aead-c2fd261a3ec7",
+        "f23fd54d-f7a2-46a3-a09c-5e45933633af"
+    ],
+    "paths": {
+        "f23fd54d-f7a2-46a3-a09c-5e45933633af": [
+            "PaperBattleInfo",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "06f29d5db": [
+            "24a704da-2867-446d-8d1a-5e920c75e09d",
+            "24a704da-2867-446d-8d1a-5e920c75e09d@6c48a",
+            "24a704da-2867-446d-8d1a-5e920c75e09d@f9941",
+            "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c",
+            "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@6c48a",
+            "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@f9941",
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a",
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+            "8e29d897-cb92-4c9a-bcac-8d3fab459946",
+            "8e29d897-cb92-4c9a-bcac-8d3fab459946@6c48a",
+            "8e29d897-cb92-4c9a-bcac-8d3fab459946@f9941",
+            "9fd900dd-221b-4f89-8f2c-fba34243c835",
+            "9fd900dd-221b-4f89-8f2c-fba34243c835@6c48a",
+            "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941",
+            "b06d0d95-3cf7-4765-aead-c2fd261a3ec7",
+            "f23fd54d-f7a2-46a3-a09c-5e45933633af"
+        ]
+    },
+    "versions": {
+        "import": [
+            "06f29d5db",
+            "81490"
+        ],
+        "native": [
+            "24a704da-2867-446d-8d1a-5e920c75e09d",
+            "a4b59",
+            "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c",
+            "b9d75",
+            "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca",
+            "cea68",
+            "8e29d897-cb92-4c9a-bcac-8d3fab459946",
+            "66ce0",
+            "9fd900dd-221b-4f89-8f2c-fba34243c835",
+            "d1118"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
