@@ -1,0 +1,30 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-enchantment-table",
+    "deps": [],
+    "uuids": [
+        "a5450e13-c333-46ee-9fe1-c675f6d66d48"
+    ],
+    "paths": {
+        "a5450e13-c333-46ee-9fe1-c675f6d66d48": [
+            "PopEnchantmentTable",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "a5450e13-c333-46ee-9fe1-c675f6d66d48",
+            "28c5f"
+        ],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

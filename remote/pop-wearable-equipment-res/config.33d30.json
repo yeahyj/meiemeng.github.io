@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-wearable-equipment-res",
+    "deps": [],
+    "uuids": [
+        "d962ed36-6f73-45b1-a177-1493caee1b41",
+        "d962ed36-6f73-45b1-a177-1493caee1b41@6c48a",
+        "d962ed36-6f73-45b1-a177-1493caee1b41@f9941"
+    ],
+    "paths": {
+        "d962ed36-6f73-45b1-a177-1493caee1b41": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "d962ed36-6f73-45b1-a177-1493caee1b41@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "d962ed36-6f73-45b1-a177-1493caee1b41@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "d962ed36-6f73-45b1-a177-1493caee1b41",
+            "a2533",
+            "d962ed36-6f73-45b1-a177-1493caee1b41@6c48a",
+            "0514c",
+            "d962ed36-6f73-45b1-a177-1493caee1b41@f9941",
+            "f0906"
+        ],
+        "native": [
+            "d962ed36-6f73-45b1-a177-1493caee1b41",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

@@ -1,0 +1,39 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-wearable-equipment",
+    "deps": [
+        "pop-equip-info-res"
+    ],
+    "uuids": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "a49b94e8-d507-481b-8902-df8d69a178d0",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941"
+    ],
+    "paths": {
+        "a49b94e8-d507-481b-8902-df8d69a178d0": [
+            "PopWearableEquipment",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "a49b94e8-d507-481b-8902-df8d69a178d0",
+            "ad667"
+        ],
+        "native": []
+    },
+    "redirect": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "0",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

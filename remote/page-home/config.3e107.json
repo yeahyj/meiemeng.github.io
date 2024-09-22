@@ -1,0 +1,60 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "page-home",
+    "deps": [
+        "page-home-res",
+        "pop-equip-info-res"
+    ],
+    "uuids": [
+        "08c956fd4",
+        "0ed379af-7835-4d91-8447-b631e8a98a6e@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "2573fa7d-6ea4-40cc-b3f8-6e9688f97cd7",
+        "2573fa7d-6ea4-40cc-b3f8-6e9688f97cd7@6c48a",
+        "2573fa7d-6ea4-40cc-b3f8-6e9688f97cd7@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "bd71fa10-4367-430b-9f73-1bc69544a6b9"
+    ],
+    "paths": {
+        "bd71fa10-4367-430b-9f73-1bc69544a6b9": [
+            "PageHome",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "08c956fd4": [
+            "2573fa7d-6ea4-40cc-b3f8-6e9688f97cd7",
+            "2573fa7d-6ea4-40cc-b3f8-6e9688f97cd7@6c48a",
+            "2573fa7d-6ea4-40cc-b3f8-6e9688f97cd7@f9941",
+            "bd71fa10-4367-430b-9f73-1bc69544a6b9"
+        ]
+    },
+    "versions": {
+        "import": [
+            "08c956fd4",
+            "c5a6d"
+        ],
+        "native": [
+            "2573fa7d-6ea4-40cc-b3f8-6e9688f97cd7",
+            "8ca34"
+        ]
+    },
+    "redirect": [
+        "0ed379af-7835-4d91-8447-b631e8a98a6e@f9941",
+        "0",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "1",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "1",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "1"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

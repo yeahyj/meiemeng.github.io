@@ -1,0 +1,49 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-enchantment-table-res",
+    "deps": [],
+    "uuids": [
+        "5ad6ad23-2877-4ea3-acb1-f045e7029bad",
+        "5ad6ad23-2877-4ea3-acb1-f045e7029bad@6c48a",
+        "5ad6ad23-2877-4ea3-acb1-f045e7029bad@f9941"
+    ],
+    "paths": {
+        "5ad6ad23-2877-4ea3-acb1-f045e7029bad": [
+            "singleColor",
+            "cc.ImageAsset",
+            1
+        ],
+        "5ad6ad23-2877-4ea3-acb1-f045e7029bad@6c48a": [
+            "singleColor/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "5ad6ad23-2877-4ea3-acb1-f045e7029bad@f9941": [
+            "singleColor/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {},
+    "versions": {
+        "import": [
+            "5ad6ad23-2877-4ea3-acb1-f045e7029bad",
+            "a2533",
+            "5ad6ad23-2877-4ea3-acb1-f045e7029bad@6c48a",
+            "eef49",
+            "5ad6ad23-2877-4ea3-acb1-f045e7029bad@f9941",
+            "5f95e"
+        ],
+        "native": [
+            "5ad6ad23-2877-4ea3-acb1-f045e7029bad",
+            "cea68"
+        ]
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

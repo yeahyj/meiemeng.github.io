@@ -1,0 +1,64 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "pop-warehouse",
+    "deps": [
+        "pop-equip-info-res"
+    ],
+    "uuids": [
+        "0b2744ded",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c",
+        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@6c48a",
+        "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "b06d0d95-3cf7-4765-aead-c2fd261a3ec7",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "bf6b9f60-788d-4fa7-b9ff-ddcfe562b4e7"
+    ],
+    "paths": {
+        "bf6b9f60-788d-4fa7-b9ff-ddcfe562b4e7": [
+            "PopWarehouse",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0b2744ded": [
+            "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c",
+            "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@6c48a",
+            "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c@f9941",
+            "b06d0d95-3cf7-4765-aead-c2fd261a3ec7",
+            "bf6b9f60-788d-4fa7-b9ff-ddcfe562b4e7"
+        ]
+    },
+    "versions": {
+        "import": [
+            "0b2744ded",
+            "71c24"
+        ],
+        "native": [
+            "2fee2e8b-2711-4e6d-aaf4-dd7c6190804c",
+            "b9d75"
+        ]
+    },
+    "redirect": [
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "0",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "0",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941",
+        "0",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "0",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

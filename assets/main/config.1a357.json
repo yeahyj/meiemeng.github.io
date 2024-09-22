@@ -1,0 +1,120 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "main",
+    "deps": [
+        "internal"
+    ],
+    "uuids": [
+        "000cee21-922c-4fcd-bd39-6f80ac2436a4",
+        "02cc0dc6f",
+        "034b06a11",
+        "0c5e3887c",
+        "0e6f013c0",
+        "19a93f71-0300-44b3-9bd9-efbc15271e7d",
+        "2a89c2f6-f894-47db-88e9-1017df6fbf0d",
+        "2a89c2f6-f894-47db-88e9-1017df6fbf0d@6c48a",
+        "2a89c2f6-f894-47db-88e9-1017df6fbf0d@f9941",
+        "5298bb0b-166e-4978-af98-0047d43757de",
+        "5512993f-89ea-46fe-b788-0ecc0c2cd51c",
+        "5512993f-89ea-46fe-b788-0ecc0c2cd51c@6c48a",
+        "5512993f-89ea-46fe-b788-0ecc0c2cd51c@f9941",
+        "5aa9450d-6710-4fac-a82c-ee2939cf9411",
+        "5e43bb09-848f-434a-b3a5-a6b6602e00af",
+        "7922bee9-7eb5-449b-884e-14ac57ae515c",
+        "7922bee9-7eb5-449b-884e-14ac57ae515c@6c48a",
+        "7922bee9-7eb5-449b-884e-14ac57ae515c@f9941",
+        "a4cadc68-5c93-4683-8ee0-cf3bb6acb132",
+        "a4cadc68-5c93-4683-8ee0-cf3bb6acb132@6c48a",
+        "a4cadc68-5c93-4683-8ee0-cf3bb6acb132@f9941",
+        "b2a00c44-d199-4031-8fa7-ea681618b9d4",
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8",
+        "fe542035-b018-493e-bea8-084fe4e01905"
+    ],
+    "paths": {
+        "5298bb0b-166e-4978-af98-0047d43757de": [
+            "db:/assets/app-scene/main",
+            "cc.SceneAsset",
+            1
+        ],
+        "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
+            "db:/internal/default_renderpipeline/builtin-forward",
+            "cc.RenderPipeline",
+            1
+        ],
+        "ba21476f-2866-4f81-9c4d-6e359316e448": [
+            "db:/internal/physics/default-physics-material",
+            "cc.PhysicsMaterial",
+            1
+        ]
+    },
+    "scenes": {
+        "db://assets/app-scene/main.scene": "5298bb0b-166e-4978-af98-0047d43757de"
+    },
+    "packs": {
+        "0c5e3887c": [
+            "2a89c2f6-f894-47db-88e9-1017df6fbf0d@6c48a",
+            "7922bee9-7eb5-449b-884e-14ac57ae515c@6c48a",
+            "5512993f-89ea-46fe-b788-0ecc0c2cd51c@6c48a",
+            "a4cadc68-5c93-4683-8ee0-cf3bb6acb132@6c48a"
+        ],
+        "0e6f013c0": [
+            "000cee21-922c-4fcd-bd39-6f80ac2436a4",
+            "5512993f-89ea-46fe-b788-0ecc0c2cd51c@f9941"
+        ],
+        "02cc0dc6f": [
+            "19a93f71-0300-44b3-9bd9-efbc15271e7d",
+            "2a89c2f6-f894-47db-88e9-1017df6fbf0d@f9941",
+            "a4cadc68-5c93-4683-8ee0-cf3bb6acb132@f9941"
+        ],
+        "034b06a11": [
+            "5298bb0b-166e-4978-af98-0047d43757de",
+            "5aa9450d-6710-4fac-a82c-ee2939cf9411",
+            "5e43bb09-848f-434a-b3a5-a6b6602e00af",
+            "7922bee9-7eb5-449b-884e-14ac57ae515c@f9941",
+            "b2a00c44-d199-4031-8fa7-ea681618b9d4",
+            "fe542035-b018-493e-bea8-084fe4e01905"
+        ]
+    },
+    "versions": {
+        "import": [
+            "02cc0dc6f",
+            "99d5d",
+            "034b06a11",
+            "8a1b4",
+            "0c5e3887c",
+            "0cd0a",
+            "0e6f013c0",
+            "4f000",
+            "2a89c2f6-f894-47db-88e9-1017df6fbf0d",
+            "a2533",
+            "5512993f-89ea-46fe-b788-0ecc0c2cd51c",
+            "a2533",
+            "7922bee9-7eb5-449b-884e-14ac57ae515c",
+            "a2533",
+            "a4cadc68-5c93-4683-8ee0-cf3bb6acb132",
+            "a2533",
+            "fd8ec536-a354-4a17-9c74-4f3883c378c8",
+            "731f4"
+        ],
+        "native": [
+            "2a89c2f6-f894-47db-88e9-1017df6fbf0d",
+            "e1ac8",
+            "5512993f-89ea-46fe-b788-0ecc0c2cd51c",
+            "5673a",
+            "7922bee9-7eb5-449b-884e-14ac57ae515c",
+            "d0267",
+            "a4cadc68-5c93-4683-8ee0-cf3bb6acb132",
+            "5673a"
+        ]
+    },
+    "redirect": [
+        "ba21476f-2866-4f81-9c4d-6e359316e448",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}
